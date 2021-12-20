@@ -1,0 +1,2 @@
+fdate,ftime,ftemp,fdew_point,fpressure,fhumidity,fuv_index,fclouds_percentage,fvisibility,fwind_speed,fwind_deg,fweather,fdescription,time,temp,dew_point,pressure,humidity,uv_index,clouds_percentage,visibility,wind_speed,wind_deg,weather,description,mtime,mtemp,mhumidity,mwindspeed,solar_irradiation
+20-12-2021,20:30:00,25.430000000000007,20.890000000000043,101400,76,0,34,10000,3.16,37,Clouds,scattered clouds,19:34:43,25.980000000000018,21.850000000000023,101400,78,0,40,3000,1.54,60,Haze,haze,0,0,0,0,0
